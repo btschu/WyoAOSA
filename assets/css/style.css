@@ -2237,3 +2237,16 @@ section {
 strong {
   color: #fe9901;
 }
+
+#aosa-logo {
+  border-radius: 50%;
+  height: 600px;
+  width: 600px;
+}
+
+@media (max-width: 768px) {
+  #aosa-logo {
+    height: 250px;
+    width: 250px;
+  }
+}
