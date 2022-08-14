@@ -1301,6 +1301,10 @@ section {
   transition: 0.2s;
 }
 
+.img-fluid {
+  height: 375px;
+}
+
 #team .member .member-info-content {
   margin-top: -50px;
   transition: margin 0.2s;
