@@ -1284,7 +1284,7 @@ section {
 #team .member {
   text-align: center;
   margin-bottom: 20px;
-  background: #000;
+  background: #fff;
   position: relative;
 }
 
@@ -2240,13 +2240,13 @@ strong {
 
 #aosa-logo {
   border-radius: 50%;
-  height: 600px;
-  width: 600px;
+  /* height: 600px;
+  width: 600px; */
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   #aosa-logo {
     height: 250px;
     width: 250px;
   }
-}
+} */
